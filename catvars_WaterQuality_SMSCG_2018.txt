@@ -1,0 +1,15 @@
+﻿attributeName	code	definition
+Station	National Steel	"Water quality station in Suisun Marsh, just north of the SMSCG"
+Station	Collinsville	"Water quality station on the Sacramento river, just east of Montezuma Slough"
+Station	Hunter Cut	Water quality sation on the west side of Montezuma Slough
+Analyte	Salinity	"Salinity, in PSU, as measured by a YSI EXO sonde."
+Analyte	Temperature	"Tempearture, in degrees Celsius, as measured by a YSI EXO sonde"
+Analyte	Fluorescence	"Chlorophyll Fluorescence, as measured by a YSI EXO sonde"
+Analyte	Turbidity	"Turbidity, in FNU, as measured by a YSI EXO sonde."
+unit	PSU	Practical Salinity Units
+unit	celsius	Degrees Celsius
+unit	RFU	Relative Fluorescence units
+unit	FNU	Formazin Nephelometric Unit
+Wytype	Below Normal	"Historic year with a dry summer,  7.8 > Sacramento Valley Index > 6.5"
+Wytype	Above Normal	"Historic year with a wet summer, Sacramento Valley Index >7.8"
+Wytype	Action Year	"2018, year with a SMSCG action"

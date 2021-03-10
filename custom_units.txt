@@ -1,0 +1,3 @@
+﻿id	unitType	parentSI	multiplierToSI	description
+PSU	Salinity			"Practical Salinity Units:  the Practical Salinity Scale, practical salinity is defined in terms of the ratio K15 of the electrical conductivity of the seawater sample, at a temperature of 15° C and a pressure of one standard atmosphere, to that of a potassium chloride (KCl) solution, in which the mass fraction of KCl is 32.4356 x 10-3 at the same temperature and pressure. "
+millionAcreFeet	Volume	meterCubed	1.23E+09	"Volume of water necessary to flood one acre of land to one foot of depth, times 1000000"

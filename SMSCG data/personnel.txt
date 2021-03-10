@@ -1,0 +1,16 @@
+﻿givenName	middleInitial	surName	organizationName	electronicMailAddress	userId	role	projectTitle	fundingAgency
+			"Interagency Ecological Program, Organization"			Associate		
+Rosemary	K	Hartman	California Department of Water Resources	Rosemary.Hartman@water.ca.gov	https://orcid.org/0000-0002-0642-183X	contact		
+Rosemary	K	Hartman	California Department of Water Resources	Rosemary.Hartman@water.ca.gov	https://orcid.org/0000-0002-0642-183X	creator		
+Ted		Sommer	California Department of Water Resources			creator		
+Michael		Koohafkan	California Department of Water Resources			creator		
+Christina		Burdi	California Department of Fish and Wildlife			creator		
+Felipe		LaLuz	California Department of Fish and Wildlife			Associate		
+Brian		Mahardja	US Fish and Wildlife Service			Associate		
+Catherine		Johnston	US Fish and Wildlife Service			Associate		
+Sunny		Lee	US Fish and Wildlife Service			Associate		
+Denise		Barnard	East Bay Municipal Utilities District			Associate		
+Aaron		Bever	Anchor QEA			creator		
+Michael		MacWilliams	Anchor QEA			creator		
+Jeff		Galef	California Departmen of Water Resources			creator		
+Jonathan 		Speegle	US Fish and Wildlife Service			Associate		

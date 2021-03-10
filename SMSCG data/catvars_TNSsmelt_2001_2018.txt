@@ -1,0 +1,8 @@
+﻿attributeName	code	definition
+Yrtype	Dry	6.5 > Index >5.4
+Yrtype	Above Normal	9.2 > Index > 7.8
+Yrtype	Below Normal	7.8< Sacramento Valley Index < 9.2
+Yrtype	Wet	Sacramento Valley Index > 9.2
+Yrtype	Critically Dry	Index <5.4
+PresenceAbsence	0	Smelt were not caught in Suisun Marsh
+PresenceAbsence	1	Smelt were caught in Suisun Marsh

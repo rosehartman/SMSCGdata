@@ -1,0 +1,8 @@
+﻿attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+Year	Year data was collected	numeric	dimensionless			
+Station	Station with continuous sonde. See 'Stations' lookup table	categorical				
+Analyte	"Salinity, turbidity, fluorescence (chlyorophyll), or temperature"	categorical				
+unit	Unit that the analyte is measured in	categorical				
+Datetime	Date of data collection	Date		MM/DD/YYYY		
+Mean	Mean of daily measurements (origional data was collected every 15 mintues for 24 hours)	numeric	dimensionless			
+Wytype	Sacramento valley water year type classification.	categorical				

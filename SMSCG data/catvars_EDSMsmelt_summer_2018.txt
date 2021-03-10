@@ -1,0 +1,7 @@
+﻿attributeName	code	definition
+region	Cache Slough/Liberty Island	Cache, Shag, Lindsey SLough, the Stairsteps, or Liberty Island
+region	Lower Sacramento	Sacramento river south of Cache SLough
+region	Lower San Joaquin	San Joaquin river in the South Delta
+region	Sac Deep Water Shipping Channel	Sacramento Deep water Ship channel north of Cache Slough
+region	Suisun Bay	Suisun Bay, Honker Bay, and Grizzly Bay
+region	Suisun Marsh	Montezuma Slough and surrounding channels

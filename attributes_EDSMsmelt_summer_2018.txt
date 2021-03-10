@@ -1,0 +1,8 @@
+﻿attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+Week	Week of sampling	numeric	dimensionless			
+EndWeek	"Date at the end of the week of sampling"	Date		MM/DD/YYYY		
+region	"Region of the estuary where sampling occurred. Either Cache Slough, Lower Sacramento, Sac Deep Water Shipping Channel, Suisun Bay, or Suisun Marsh"	categorical				
+catch	number of smelt caught	numeric	number			
+CPUE	Catch of Delta Smelt per trawl within the region.	numeric	dimensionless			
+Stations	Number of stations sampled within the region.	numeric	number			
+Trawls	"Number of trawls conducted in specified region, generally 2 to 6 per station."	numeric	number			

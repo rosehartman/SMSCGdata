@@ -1,0 +1,14 @@
+﻿attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+Year	"Year of sample collection"	Date		YYYY		
+Station	"Station where sample was collected. See the ""stations"" lookup table for details"	character				
+Date	"Date of sample collection"	Date		DD/MM/YYYY		
+Temperature	"Water temperature from the surface of the water taken at the start of the first trawl of the station."	numeric	celsius			
+TowVolume	"Volume of water passing through the net. Volume for samples collected in  2002 used an estimated tow volume of 735 m3. Tow volumes collected in 2003 and later were estimated using a General Oceanics mechanical flowmeter." 	numeric	meterSquared			
+DScatch	"number of Delta Smelt caught in the trawl"	numeric	number			
+CPUE	"Catch per unit effort of Delta Smelt based on the volume of the trawl"	numeric	numberPerMeterSquared			
+TowNumber	"Out of the three replicate tows taken at a station, number of current tow. A third tow is conducted if any fish are collected during either of the first two tows."	numeric	dimensionless			
+WYIndex	"Sacramento Valley Water Year Index, based on unimpaired runnoff. "	numeric	millionAcreFeet			
+Yrtype	"Sacraemento Valley Water Year type, based on WY index."	categorical				
+NDOImonthly	"Average August Net Delta Outflow Index, as calculated by Dayflow"	numeric	cubicFeetPerSecond			
+PresenceAbsence	"Where Delta Smelt caught in the trawl? 1 - yes, 0 - no."	categorical				
+Salinity	"Salinity in practical salinity units based on specific conductance as measured by the boat conducting the trawl."	numeric	PSU			

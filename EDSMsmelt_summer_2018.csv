@@ -1,0 +1,103 @@
+Week,EndWeek,region,catch,CPUE,Stations,Trawls
+1,7/8/2018,Cache Slough/Liberty Island,0,0,5,25
+1,7/8/2018,Lower Sacramento,0,0,5,29
+1,7/8/2018,Lower San Joaquin,0,0,5,30
+1,7/8/2018,Sac Deep Water Shipping Channel,5,0.185185185,5,27
+1,7/8/2018,Suisun Bay,2,0.125,4,16
+1,7/8/2018,Suisun Marsh,0,0,4,24
+2,7/15/2018,Cache Slough/Liberty Island,0,0,4,20
+2,7/15/2018,Lower Sacramento,0,0,5,30
+2,7/15/2018,Lower San Joaquin,0,0,4,24
+2,7/15/2018,Sac Deep Water Shipping Channel,2,0.095238095,4,21
+2,7/15/2018,Suisun Bay,0,0,5,29
+2,7/15/2018,Suisun Marsh,0,0,4,24
+3,7/22/2018,Cache Slough/Liberty Island,0,0,4,24
+3,7/22/2018,Lower Sacramento,0,0,5,30
+3,7/22/2018,Lower San Joaquin,0,0,6,36
+3,7/22/2018,Sac Deep Water Shipping Channel,2,0.076923077,5,26
+3,7/22/2018,Suisun Bay,2,0.090909091,4,22
+3,7/22/2018,Suisun Marsh,0,0,4,24
+4,7/29/2018,Cache Slough/Liberty Island,0,0,5,17
+4,7/29/2018,Lower Sacramento,0,0,6,24
+4,7/29/2018,Lower San Joaquin,0,0,6,24
+4,7/29/2018,Sac Deep Water Shipping Channel,6,0.3,6,20
+4,7/29/2018,Suisun Bay,0,0,5,20
+4,7/29/2018,Suisun Marsh,0,0,5,20
+5,8/5/2018,Cache Slough/Liberty Island,0,0,6,22
+5,8/5/2018,Lower Sacramento,0,0,5,20
+5,8/5/2018,Lower San Joaquin,0,0,6,24
+5,8/5/2018,Sac Deep Water Shipping Channel,4,0.5,3,8
+5,8/5/2018,Suisun Bay,0,0,5,20
+5,8/5/2018,Suisun Marsh,0,0,7,25
+6,8/12/2018,Cache Slough/Liberty Island,0,0,6,24
+6,8/12/2018,Lower Sacramento,0,0,4,16
+6,8/12/2018,Lower San Joaquin,0,0,6,24
+6,8/12/2018,Sac Deep Water Shipping Channel,2,0.1,5,20
+6,8/12/2018,Suisun Bay,0,0,6,25
+6,8/12/2018,Suisun Marsh,0,0,6,24
+7,8/19/2018,Cache Slough/Liberty Island,0,0,5,21
+7,8/19/2018,Lower Sacramento,1,0.045454545,6,22
+7,8/19/2018,Lower San Joaquin,0,0,5,21
+7,8/19/2018,Sac Deep Water Shipping Channel,5,0.227272727,6,22
+7,8/19/2018,Suisun Bay,0,0,5,19
+7,8/19/2018,Suisun Marsh,2,0.083333333,6,24
+8,8/26/2018,Cache Slough/Liberty Island,0,0,6,23
+8,8/26/2018,Lower Sacramento,5,0.25,6,20
+8,8/26/2018,Lower San Joaquin,0,0,6,25
+8,8/26/2018,Sac Deep Water Shipping Channel,3,0.125,7,24
+8,8/26/2018,Suisun Bay,0,0,6,24
+8,8/26/2018,Suisun Marsh,3,0.15,6,20
+9,9/2/2018,Cache Slough/Liberty Island,0,0,6,22
+9,9/2/2018,Lower Sacramento,0,0,6,24
+9,9/2/2018,Lower San Joaquin,0,0,6,24
+9,9/2/2018,Sac Deep Water Shipping Channel,7,0.291666667,6,24
+9,9/2/2018,Suisun Bay,0,0,6,24
+9,9/2/2018,Suisun Marsh,0,0,6,24
+10,9/9/2018,Cache Slough/Liberty Island,0,0,6,25
+10,9/9/2018,Lower Sacramento,0,0,6,24
+10,9/9/2018,Lower San Joaquin,0,0,6,24
+10,9/9/2018,Sac Deep Water Shipping Channel,0,0,6,24
+10,9/9/2018,Suisun Bay,0,0,5,20
+10,9/9/2018,Suisun Marsh,2,0.095238095,6,21
+11,9/16/2018,Cache Slough/Liberty Island,0,0,6,26
+11,9/16/2018,Lower Sacramento,0,0,6,24
+11,9/16/2018,Lower San Joaquin,0,0,6,24
+11,9/16/2018,Sac Deep Water Shipping Channel,24,0.96,7,25
+11,9/16/2018,Suisun Bay,0,0,7,25
+11,9/16/2018,Suisun Marsh,0,0,5,20
+12,9/23/2018,Cache Slough/Liberty Island,0,0,6,24
+12,9/23/2018,Lower Sacramento,13,0.590909091,6,22
+12,9/23/2018,Lower San Joaquin,0,0,6,24
+12,9/23/2018,Sac Deep Water Shipping Channel,2,0.083333333,6,24
+12,9/23/2018,Suisun Bay,0,0,7,28
+12,9/23/2018,Suisun Marsh,0,0,6,24
+13,9/30/2018,Cache Slough/Liberty Island,0,0,6,24
+13,9/30/2018,Lower Sacramento,3,0.111111111,7,27
+13,9/30/2018,Lower San Joaquin,0,0,6,24
+13,9/30/2018,Sac Deep Water Shipping Channel,12,0.545454545,7,22
+13,9/30/2018,Suisun Bay,0,0,6,24
+13,9/30/2018,Suisun Marsh,0,0,6,25
+14,10/7/2018,Cache Slough/Liberty Island,0,0,7,29
+14,10/7/2018,Lower Sacramento,0,0,8,32
+14,10/7/2018,Lower San Joaquin,0,0,7,28
+14,10/7/2018,Sac Deep Water Shipping Channel,4,0.153846154,7,26
+14,10/7/2018,Suisun Bay,0,0,6,24
+14,10/7/2018,Suisun Marsh,0,0,6,24
+15,10/14/2018,Cache Slough/Liberty Island,0,0,6,24
+15,10/14/2018,Lower Sacramento,4,0.153846154,7,26
+15,10/14/2018,Lower San Joaquin,0,0,7,28
+15,10/14/2018,Sac Deep Water Shipping Channel,3,0.115384615,7,26
+15,10/14/2018,Suisun Bay,0,0,6,24
+15,10/14/2018,Suisun Marsh,0,0,6,24
+16,10/21/2018,Cache Slough/Liberty Island,0,0,7,28
+16,10/21/2018,Lower Sacramento,0,0,6,24
+16,10/21/2018,Lower San Joaquin,0,0,6,24
+16,10/21/2018,Sac Deep Water Shipping Channel,17,0.708333333,7,24
+16,10/21/2018,Suisun Bay,0,0,6,24
+16,10/21/2018,Suisun Marsh,0,0,6,24
+17,10/28/2018,Cache Slough/Liberty Island,0,0,6,25
+17,10/28/2018,Lower Sacramento,0,0,8,32
+17,10/28/2018,Lower San Joaquin,0,0,7,29
+17,10/28/2018,Sac Deep Water Shipping Channel,0,0,6,24
+17,10/28/2018,Suisun Bay,0,0,6,24
+17,10/28/2018,Suisun Marsh,0,0,5,20

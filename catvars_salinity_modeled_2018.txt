@@ -1,0 +1,3 @@
+attributeName	code	definition
+Action	Action	Model scenario where SMSCG are operated during August
+Action	No Action	Model scenario where SMSCG are not operated during August

@@ -1,0 +1,1755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="edi.581.2" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0  https://nis.lternet.edu/schemas/EML/eml-2.2.0/xsd/eml.xsd" system="edi">
+  <access authSystem="https://pasta.edirepository.org/authentication" order="allowFirst" scope="document">
+    <allow>
+      <principal>uid=iep,o=EDI,dc=edirepository,dc=org</principal>
+      <permission>all</permission>
+    </allow>
+    <allow>
+      <principal>public</principal>
+      <permission>read</permission>
+    </allow>
+  </access>
+  <dataset>
+    <title>Interagency Ecological Program: Water quality, fish, and zooplankton monitoring and modeling to support the 2018 Suisun Marsh Salinity Control Gates Summer Action</title>
+    <creator>
+      <individualName>
+        <givenName>Rosemary</givenName>
+        <givenName>K</givenName>
+        <surName>Hartman</surName>
+      </individualName>
+      <organizationName>California Department of Water Resources</organizationName>
+      <electronicMailAddress>Rosemary.Hartman@water.ca.gov</electronicMailAddress>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Ted</givenName>
+        <surName>Sommer</surName>
+      </individualName>
+      <organizationName>California Department of Water Resources</organizationName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Michael</givenName>
+        <surName>Koohafkan</surName>
+      </individualName>
+      <organizationName>California Department of Water Resources</organizationName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Christina</givenName>
+        <surName>Burdi</surName>
+      </individualName>
+      <organizationName>California Department of Fish and Wildlife</organizationName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Aaron</givenName>
+        <surName>Bever</surName>
+      </individualName>
+      <organizationName>Anchor QEA</organizationName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Michael</givenName>
+        <surName>MacWilliams</surName>
+      </individualName>
+      <organizationName>Anchor QEA</organizationName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Jeff</givenName>
+        <surName>Galef</surName>
+      </individualName>
+      <organizationName>California Department of Water Resources</organizationName>
+    </creator>
+    <associatedParty>
+      <organizationName>Interagency Ecological Program, Organization</organizationName>
+      <electronicMailAddress/>
+      <role>Associate</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Felipe</givenName>
+        <surName>LaLuz</surName>
+      </individualName>
+      <organizationName>California Department of Fish and Wildlife</organizationName>
+      <role>Associate</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Brian</givenName>
+        <surName>Mahardja</surName>
+      </individualName>
+      <organizationName>US Fish and Wildlife Service</organizationName>
+      <role>Associate</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Catherine</givenName>
+        <surName>Johnston</surName>
+      </individualName>
+      <organizationName>US Fish and Wildlife Service</organizationName>
+      <role>Associate</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Sunny</givenName>
+        <surName>Lee</surName>
+      </individualName>
+      <organizationName>US Fish and Wildlife Service</organizationName>
+      <role>Associate</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Denise</givenName>
+        <surName>Barnard</surName>
+      </individualName>
+      <organizationName>East Bay Municipal Utilities District</organizationName>
+      <role>Associate</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Jonathan</givenName>
+        <surName>Speegle</surName>
+      </individualName>
+      <organizationName>US Fish and Wildlife Service</organizationName>
+      <role>Associate</role>
+    </associatedParty>
+    <pubDate>2020-07-30</pubDate>
+    <abstract>
+      <para> In summer 2018 we used a unique water control structure in the San Francisco Estuary (SFE) to direct a managed flow pulse into Suisun Marsh, one of the largest contiguous tidal marshes on the west coast of the United States.  The action was designed to increase habitat suitability for the endangered Delta Smelt Hypomesus transpacificus, a small osmerid fish endemic to the upper SFE.  The approach was to operate the Suisun Marsh Salinity Control Gates (SMSCG) in conjunction with increased Sacramento River tributary inflow to direct an estimated 160 x 10^6 m3 pulse of low salinity water into Suisun Marsh during August, a critical time period for juvenile Delta Smelt rearing. This dataset includes physical and biological monitoring data collected for the action. Datasets include Delta Smelt catch from the USFWS Enhanced Delta Smelt Monitoring program, zooplankton and Microcystis abundance from the Environmental Monitoring Program, historic Delta Smelt catch from the Summer Townet Survey, Delta Outflow from the Dayflow model, extent of Delta Smelt habitat from the UnTRIM Bay-Delta model, and water quality (Salinity, Temperature, Chlorophyll, and Turibidity) collected at continuous sondes at three locations. These data are associated with the manuscript "Evaluation of a large-scale flow manipulation to the upper San Francisco Estuary: Response of habitat conditions for an endangered native fish," by Dr. Ted Sommer, et al. 2020 PLOS One, in review.</para>
+    </abstract>
+    <keywordSet>
+      <keyword>Delta Smelt</keyword>
+      <keyword>Zooplankton</keyword>
+      <keyword>Water Quality</keyword>
+      <keyword>Estuaries</keyword>
+      <keyword>San Fransisco Estuary</keyword>
+      <keyword>Suisun Marsh</keyword>
+      <keyword>Water Management</keyword>
+    </keywordSet>
+    <intellectualRights>
+      <para>This information is released under the Creative Commons license - Attribution - CC BY (https://creativecommons.org/licenses/by/4.0/). The consumer of these data (\"Data User\" herein) is required to cite it appropriately in any publication that results from its use. The Data User should realize that these data may be actively used by others for ongoing research and that coordination may be necessary to prevent duplicate publication. The Data User is urged to contact the authors of these data if any questions about methodology or results occur. Where appropriate, the Data User is encouraged to consider collaboration or co-authorship with the authors. The Data User should realize that misinterpretation of data may occur if used out of context of the original study. While substantial efforts are made to ensure the accuracy of data and associated documentation, complete accuracy of data sets cannot be guaranteed. All data are made available \"as is.\" The Data User should be aware, however, that data are updated periodically and it is the responsibility of the Data User to check for new versions of the data. The data authors and the repository where these data were obtained shall not be liable for damages resulting from any use or misinterpretation of the data. Thank you.
+</para>
+    </intellectualRights>
+    <coverage>
+      <geographicCoverage>
+        <geographicDescription>San Fransisco Estuary, Suisun Marsh, Sacramento River</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-122.0527</westBoundingCoordinate>
+          <eastBoundingCoordinate>-121.8388</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.03281</northBoundingCoordinate>
+          <southBoundingCoordinate>38.1869</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+        <rangeOfDates>
+          <beginDate>
+            <calendarDate>2002-08-01</calendarDate>
+          </beginDate>
+          <endDate>
+            <calendarDate>2018-11-01</calendarDate>
+          </endDate>
+        </rangeOfDates>
+      </temporalCoverage>
+    </coverage>
+    <maintenance>
+      <description>complete</description>
+    </maintenance>
+    <contact>
+      <individualName>
+        <givenName>Rosemary</givenName>
+        <givenName>K</givenName>
+        <surName>Hartman</surName>
+      </individualName>
+      <organizationName>California Department of Water Resources</organizationName>
+      <electronicMailAddress>Rosemary.Hartman@water.ca.gov</electronicMailAddress>
+    </contact>
+    <methods>
+      <methodStep>
+        <description>
+          <para>Methods
+This data was collected to describe the effectiveness of the 2018 pilot Suisun Marsh Salinity Control Gate study. This is a derived dataset made up of subsets of several long-term monitoring programs’ data sets, along with some data collected specifically for the study. </para>
+          <para>Methods to derive ‘Delta_outflow_2018.csv’
+Daily flow data estimating the net freshwater outflow from the Delta to the SFE were accessed at the California Natural Resources Agency’s data portal  https://data.cnra.ca.gov/dataset/dayflow. DAYFLOW is a water balance model run by the California Department of Water Resources (DWR) that estimates the daily average outflow from the Delta. The DAYFLOW output, known as the Net Delta Outflow Index (NDOI), is used for many regulatory and operational purposes. DAYFLOW estimates NDOI based on flow measurements and model estimates as described in the DAYFLOW documentation (https://data.cnra.ca.gov/dataset/06ee2016-b138-47d7-9e85-f46fae674536/resource/776b90ca-673e-4b56-8cf3-ec26792708c3/download/current-dayflow-documentation.pdf). It can be roughly interpreted as the difference between Delta inflows and water exports. Water Year Index and Water Year Type classifications are calculated by the DWR’s cooperative Snow Surveys based on measured unimpared runoff for the Sacramento Valley. For details see: https://cdec.water.ca.gov/reportapp/javareports?name=WSIHIST</para>
+          <para>Methods to derive ‘WaterQuality_SMSCG_2018.csv’
+Water Quality data were collected by DWR’s Suisun Marsh branch and Environmental Monitoring program via stationary water quality probes deployed at Collinsville, National Steel, and Hunter Cut. Continuous water quality measurements were taken using Yellow Springs International (YSI) EXO2 multi-parameter water quality probes. The probes were used to measure temperature, turbidity, specific conductivity, and chlorophyll fluorescence at 15-minute intervals during the July-October period, in accordance with DWR’s QAQC protocols (CITATION).  These data are telemetered to DWR’s California Data Exchange Center (CDEC). To derive the dataset, we downloaded the data from CDEC, performed outlier detections, and calculated daily means for Salinity, Temperature, Turbidity, and Chlorophyll Fluorescence.</para>
+          <para>Methods to derive ‘EDSMsmelt_summer_2018.csv”:
+Since 2016, the US Fish and Wildlife Service’s Enhanced Delta Smelt Monitoring Program (EDSM) (https://doi.org/10.6073/pasta/98bce400502fae3a6b77b3e96f6d51e7), conducts Kodiak trawls to monitor Delta Smelt throughout the upper San Francisco Estuary (United States Fish and Wildlife Service et al. 2019). The Kodiak trawl had maximum mouth dimensions of 1.83 m x 7.62 m, with a body consisting of five panels of mesh starting with 5.1-cm stretch near the net mouth and decreasing to 0.3 cm stretch before the cod end, which was attached to a live box. Over the course of a week, field crews sample between 18 and 37 random sites, stratified by region of the estuary. During each weekly survey period a Kodiak trawl crew sampled 3-4 sites per day with a minimum of 2 tows per site. If no Delta Smelt were captured in the first two tows, up to four additional samples were taken. For each tow, the total number of Delta Smelt was counted, measured, and individuals were saved for future research. The results for each weekly sampling period and region were summarized based on catch per tow (CPUE) for each sampling region. Fish that could not be assigned to a particular tow (gilled in the net), and tows which were not completed (GearCondition Codes 4 and 9) were not included.</para>
+          <para>Methods to derive ‘TNSsmelt_2001_2018.csv”:
+Because EDSM did not begin sampling until 2016, we used the California Department of Fish and Wildlife’s Summer Townet Survey (TNS) to evaluate historic smelt catch during August in Suisun Marsh. Data for the TNS was downloaded from the CDFW website (ftp://ftp.wildlife.ca.gov/TownetFallMidwaterTrawl/) and subset to include only data from stations within Suisun Marsh (stations numbers 606, 609, and 610) in August from 2001-2017. The townet has two sections; the first is made of 1/2" stretch, knotted, nylon, mesh 6' long, tapering down to an additional 2' "fyke". This "fyke" fits entirely within the second section, a 9' section of woven mesh with approximately 8 holes per inch. Please see the link at right for a diagram of the townet. The entire net measures approximately 15' in total, and is lashed directly to a fixed metal "D" frame. The "D" frame is in turn mounted on a 22 pound sled. Since 2005, a modified Clarke-Bumpus net and housing have been attached to the top of the "D" frame to sample mesozooplankton prey availability during one of the fish tows at each station. Two 10 minute stepped oblique tows are performed at each station. At historic stations, a third tow is conducted if any fish are captured during the first two tows. STN enumerates all fishes and several invertebrate species. Fork length is measured to the nearest millimeter for all striped bass, all delta smelt, and the first 50 fish per tow for all other species. We converted electrical conductivity measured by the sampling crew using a multi-parameter YSI sonde to salinity using the ‘ec2pss’ function from the ‘wql’ package in Program R (Jassby et al. 2017). </para>
+          <para>Methods to produce ‘plankton_2018_smscg.csv’:
+Zooplankton and Microcystis sampling relied on data from several long-term boat-based sampling programs, all of which are available as in integrated data set on EDI (Bashevkin, 2020) (Bashevkin et al. 2020). The Interagency Ecological Program’s Environmental Monitoring Program (EMP) (http://www.water.ca.gov/iep/activities/emp.cfm), which collects zooplankton samples on a monthly basis at fixed sites throughout the upper SFE  (Hennessy 2019); California Department of Fish and Wildlife’s Summer Townet Survey (STN) (https://www.wildlife.ca.gov/Conservation/Delta/Townet-Survey), which collects zooplankton and fish samples at fixed sites on a biweekly basis in July and August; and the Fall Midwater Trawl (FMWT) (https://www.wildlife.ca.gov/Conservation/Delta/Fall-Midwater-Trawl), which operates on a monthly basis in September-December and also collects zooplankton samples in addition to fish sampling at fixed sites in the study area. Sampling methods were similar between surveys. For each zooplankton sample, an 85 cm long, 12.5 cm diameter zooplankton net made of 0.16 mm nylon mesh was attached to a steel sampling sled and towed through the water in a stepwise oblique manner for ten minutes to sample the entire water column. A General Oceanics model 2030 flowmeter was fixed in the mouth of the net to calculate water volume sampled. Samples were preserved in 10% formalin and subsamples were identified by taxonomists at CDFW’s laboratory in Stockton, CA. Catch per cubic meter of water sampled (CPUE) was calculated based on volume of water passing through the net as measured by the flowmeter. CPUE was converted to biomass per cubic meter (BPUE) by using published conversion factors (Dumont et al. 1975, Rian and Stephen 2004, Kimmerer et al. 2011).</para>
+          <para>Data from the integrated dataset were subset to include only samples collected during summer and fall of 2018 in Suisun Marsh and the River region. We combined BPUE for lower taxonomic groups and life stages to seven main groups: Acartiella spp., Tortanus spp., Pseudodiaptomus spp., Limnoithona spp., Other Calanoid Copepods, other Cyclopoid Copepods, and Other Zooplankton.</para>
+          <para>Microcystis presence was assessed visually by survey personnel concurrently with zooplankton and fish sampling. At each sampling event, a bucket of water was collected and presence of Microcystis colonies was ranked on a scale of 1-5, with 1 being “absent” and 5 being “very high”. </para>
+          <para>
+Methods to produce ‘salinity_modeled_2018.csv’ and “Percent_time_lt6psu_100mGrid_UTM_2018Action_01_Summer Operation.asc”</para>
+          <para>The salinity fields in Suisun Marsh and Suisun Bay with and without a SMSCG Flow action in 2018 were modeled by by Aaron Bever and Michael MacWilliams of Anchor QEA (https://www.anchorqea.com/) using the UnTRIM Bay-Delta Model. The UnTRIM Bay-Delta model is a three-dimensional hydrodynamic model of San Francisco Bay and the Sacramento-San Joaquin Delta (MacWilliams et al. 2015) developed using the UnTRIM hydrodynamic model (Casulli and Zanolli 2002, Casulli and Zanolli 2005). The UnTRIM Bay-Delta model extends from the Pacific Ocean through the entire Sacramento-San Joaquin Delta. Tidal and non-tidal water levels, salinity, and water temperature are applied at the Pacific Ocean open boundary. The UnTRIM Bay-Delta model includes spatially varying meteorology, freshwater inflow from tributaries to the Bay and Delta, and water exports/intakes throughout the system.  Water control structures, such as gates and temporary barriers, are also included in the model.  The UnTRIM Bay-Delta model has been calibrated using water level, water flow, and salinity data collected in the SFE in numerous previous studies (Kimmerer et al. 2009, MacWilliams et al. 2015) and was validated for the 2018 Flow Action period using observed water level, salinity, and temperature data collected in the study area.   </para>
+          <para>Because the hydrodynamic model domain is significantly larger than the study area in Suisun Marsh and both the upstream flows and ocean water levels are unaffected by the Flow Action, all boundary conditions remained identical for the historical simulation of the Flow Action and the corresponding scenario that did not include the Flow Action, such that only the SMSCG gate operation and Delta exports specified in the model varied between the scenarios. In the hydrodynamic model, the SMSCG was operated following the same schedule and operational triggers used by the California Department of Water Resources to operate the physical facility.  The SMSCG is represented by three grid cells in the model:  one representing flashboards, one representing the radial gates, and one representing the boat lock and jetty on the eastern side of Montezuma Slough.   The width of each grid cell corresponds to the width of each SMSCG component.  Flow through the boat lock is represented using a rating curve.  During the period when the flashboards are in place, water flow is not allowed through the water grid cell representing the flashboards.</para>
+          <para>Simulated salinity and temperature with and without the Flow Action in the flow area were then summarized for the periods before, during, and after the Flow Action.  Hydrodynamic model results from the simulation with the Flow Action were compared to results from the simulation without the Flow Action, to estimate the effects of the Flow Action on salinity and temperature.  Time series were extracted from the model to evaluate salinity and temperature through time at Belden’s Landing (salinity_modeled_2018.csv).  Depth-averaged salinity and temperature at each model grid cell were Depth-averaged salinity and temperature at each model grid cell were evaluated for the period of the Flow Action. The percent of time the depth-averaged salinity was less than 6 psu at each model grid cell during the Flow Action was calculated for both simulations (.asc files). These can be used to visualize the change resulting from the Flow Action. </para>
+          <para>
+References 
+Bashevkin, S. M., R. Hartman, M. Thomas, A. Barros, C. Burdi, A. Hennessy, T. Tempel, and K. K. . 2020. Interagency Ecological Program: Zooplankton abundance in the Upper San Francisco Estuary from 1972-2018, an integration of 5 long-term monitoring programs ver 1. Environmental Data Initiative. .
+Casulli, V., and P. Zanolli. 2002. Semi-implicit numerical modeling of nonhydrostatic free-surface flows for environmental problems. Mathematical and Computer Modelling 36:1131-1149.
+Casulli, V., and P. Zanolli. 2005. High resolution methods for multidimensional advection–diffusion problems in free-surface hydrodynamics. Ocean Modelling 10:137-151.
+Dumont, H. J., I. Van de Velde, and S. Dumont. 1975. The dry weight estimate of biomass in a selection of Cladocera, Copepoda and Rotifera from the plankton, periphyton and benthos of continental waters. Oecologia 19:75-97.
+Hennessy, A. 2019. Zooplankton Meta Data. IEP Bay-Delta Monitoring and Analysis Section, Department of Water Resources, Sacramento, CA.
+Jassby, A., J. Cloern, and J. Stachelek. 2017. Package wql, Exploring Water Quality Monitoring Data. Comprehensive R Archive Network (CRAN).
+Kimmerer, W., T. Ignoffo, and L. Sullivan. 2011. Length, weight, carbon, and nitrogen content of the common copepods in the San Francisco Estuary. Romberg Tiburon Center, San Francisco State University, Tiburon, CA.
+Kimmerer, W. J., E. S. Gross, and M. L. MacWilliams. 2009. Is the response of estuarine nekton to freshwater flow in the San Francisco Estuary explained by variation in habitat volume? Estuaries and Coasts 32:375-389.
+MacWilliams, M. L., A. J. Bever, E. S. Gross, G. S. Ketefian, and W. J. Kimmerer. 2015. Three-dimensional modeling of hydrodynamics and salinity in the San Francisco estuary: An evaluation of model accuracy, X2, and the low–salinity zone. San Francisco Estuary and Watershed Science 13.
+Rian, C. H., and M. B. Stephen. 2004. Functional response and potential predatory impact of Tortanus dextrilobatus, a carnivorous copepod recently introduced to the San Francisco Estuary. Marine Ecology Progress Series 277:167-179.
+United States Fish and Wildlife Service, C. Johnston, S. Lee, B. Mahardja, J. Speegle, and D. Barnard. 2019. U.S. Fish and Wildlife Service: San Francisco Estuary Enhanced Delta Smelt Monitoring Program data, 2016-2019 ver 1. Environmental Data Initiative.</para>
+          <para/>
+        </description>
+      </methodStep>
+      <methodStep>
+        <description>
+          <para>This method step describes provenance-based metadata as specified in the LTER EML Best Practices.</para>
+          <para>This provenance metadata does not contain entity specific information.</para>
+        </description>
+        <dataSource>
+          <title>IEP Zooplankton Study</title>
+          <creator>
+            <individualName>
+              <givenName>Arthur</givenName>
+              <givenName>E</givenName>
+              <surName>Barros</surName>
+            </individualName>
+            <organizationName>California Department of Fish and Wildlife (CDFW)</organizationName>
+            <electronicMailAddress>arthur.barros@wildlife.ca.gov</electronicMailAddress>
+          </creator>
+          <distribution>
+            <online>
+              <onlineDescription>This online link references an EML document that describes data used in the creation of this derivative data package.</onlineDescription>
+              <url function="information">https://pasta.lternet.edu/package/metadata/eml/edi/522/1</url>
+            </online>
+          </distribution>
+          <contact>
+            <individualName>
+              <givenName>Arthur</givenName>
+              <givenName>E</givenName>
+              <surName>Barros</surName>
+            </individualName>
+            <organizationName>California Department of Fish and Wildlife (CDFW)</organizationName>
+            <electronicMailAddress>arthur.barros@wildlife.ca.gov</electronicMailAddress>
+          </contact>
+        </dataSource>
+      </methodStep>
+      <methodStep>
+        <description>
+          <para>This method step describes provenance-based metadata as specified in the LTER EML Best Practices.</para>
+          <para>This provenance metadata does not contain entity specific information.</para>
+        </description>
+        <dataSource>
+          <title>U.S. Fish and Wildlife Service: San Francisco Estuary Enhanced Delta Smelt Monitoring Program data, 2016-2019</title>
+          <creator>
+            <individualName>
+              <surName>United States Fish and Wildlife Service</surName>
+            </individualName>
+          </creator>
+          <creator>
+            <individualName>
+              <givenName>Catherine</givenName>
+              <surName>Johnston</surName>
+            </individualName>
+            <organizationName>United States Fish and Wildlife Service</organizationName>
+            <electronicMailAddress>catherine_johnston@fws.gov</electronicMailAddress>
+            <userId directory="https://orcid.org">https://orcid.org/0000-0002-4416-3771</userId>
+          </creator>
+          <creator>
+            <individualName>
+              <givenName>Sunny</givenName>
+              <surName>Lee</surName>
+            </individualName>
+            <organizationName>United States Fish and Wildlife Service</organizationName>
+            <electronicMailAddress>sunny_lee@fws.gov</electronicMailAddress>
+            <userId directory="https://orcid.org">https://orcid.org/0000-0001-5261-9807</userId>
+          </creator>
+          <creator>
+            <individualName>
+              <givenName>Brian</givenName>
+              <surName>Mahardja</surName>
+            </individualName>
+            <organizationName>United States Fish and Wildlife Service</organizationName>
+            <electronicMailAddress>brian_mahardja@fws.gov</electronicMailAddress>
+            <userId directory="https://orcid.org">https://orcid.org/0000-0003-0695-3745</userId>
+          </creator>
+          <creator>
+            <individualName>
+              <givenName>Jonathan</givenName>
+              <surName>Speegle</surName>
+            </individualName>
+            <organizationName>United States Fish and Wildlife Service</organizationName>
+            <electronicMailAddress>jonathan_speegle@fws.gov</electronicMailAddress>
+            <userId directory="https://orcid.org">https://orcid.org/0000-0002-1780-8351</userId>
+          </creator>
+          <creator>
+            <individualName>
+              <givenName>Denise</givenName>
+              <surName>Barnard</surName>
+            </individualName>
+            <organizationName>United States Fish and Wildlife Service</organizationName>
+            <electronicMailAddress>denise_barnard@fws.gov</electronicMailAddress>
+            <userId directory="https://orcid.org">https://orcid.org/0000-0002-1710-6122</userId>
+          </creator>
+          <distribution>
+            <online>
+              <onlineDescription>This online link references an EML document that describes data used in the creation of this derivative data package.</onlineDescription>
+              <url function="information">https://pasta.lternet.edu/package/metadata/eml/edi/415/1</url>
+            </online>
+          </distribution>
+          <contact>
+            <individualName>
+              <givenName>Catherine Johnston</givenName>
+              <surName>Enhanced Delta Smelt Monitoring Program Supervisor and Data Manager</surName>
+            </individualName>
+            <organizationName>United States Fish and Wildlife Service</organizationName>
+            <electronicMailAddress>catherine_johnston@fws.gov</electronicMailAddress>
+            <userId directory="https://orcid.org">https://orcid.org/0000-0002-4416-3771</userId>
+          </contact>
+          <contact>
+            <individualName>
+              <givenName>Denise Barnard</givenName>
+              <surName>Program Manager</surName>
+            </individualName>
+            <organizationName>United States Fish and Wildlife Service</organizationName>
+            <electronicMailAddress>denise_barnard@fws.gov</electronicMailAddress>
+            <userId directory="https://orcid.org">https://orcid.org/0000-0002-1710-6122</userId>
+          </contact>
+        </dataSource>
+      </methodStep>
+      <methodStep>
+        <description>
+          <para>This method step describes provenance-based metadata as specified in the LTER EML Best Practices.</para>
+          <para>This provenance metadata does not contain entity specific information.</para>
+        </description>
+        <dataSource>
+          <title>Interagency Ecological Program: Zooplankton abundance in the Upper San Francisco Estuary from 1972-2018, an integration of 5 long-term monitoring programs</title>
+          <creator>
+            <individualName>
+              <givenName>Samuel</givenName>
+              <givenName>M</givenName>
+              <surName>Bashevkin</surName>
+            </individualName>
+            <organizationName>Delta Science Program, Delta Stewardship Council</organizationName>
+            <electronicMailAddress>sam.bashevkin@deltacouncil.ca.gov</electronicMailAddress>
+            <userId directory="https://orcid.org">https://orcid.org/0000-0001-7406-7089</userId>
+          </creator>
+          <creator>
+            <individualName>
+              <givenName>Rosemary</givenName>
+              <surName>Hartman</surName>
+            </individualName>
+            <organizationName>California Department of Water Resources</organizationName>
+            <electronicMailAddress>Rosemary.Hartman@water.ca.gov</electronicMailAddress>
+            <userId directory="https://orcid.org">https://orcid.org/0000-0002-0642-183X</userId>
+          </creator>
+          <creator>
+            <individualName>
+              <givenName>Madison</givenName>
+              <surName>Thomas</surName>
+            </individualName>
+            <organizationName>Delta Science Program, Delta Stewardship Council</organizationName>
+            <electronicMailAddress>Madison.Thomas@parks.ca.gov</electronicMailAddress>
+          </creator>
+          <creator>
+            <individualName>
+              <givenName>Arthur</givenName>
+              <surName>Barros</surName>
+            </individualName>
+            <organizationName>California Department of Fish and Wildlife</organizationName>
+            <electronicMailAddress>Arthur.Barros@Wildlife.ca.gov</electronicMailAddress>
+          </creator>
+          <creator>
+            <individualName>
+              <givenName>Christina</givenName>
+              <surName>Burdi</surName>
+            </individualName>
+            <organizationName>California Department of Fish and Wildlife</organizationName>
+            <electronicMailAddress>Christina.Burdi@wildlife.ca.gov</electronicMailAddress>
+          </creator>
+          <creator>
+            <individualName>
+              <givenName>April</givenName>
+              <surName>Hennessy</surName>
+            </individualName>
+            <organizationName>California Department of Fish and Wildlife</organizationName>
+            <electronicMailAddress>April.Hennessy@wildlife.ca.gov</electronicMailAddress>
+          </creator>
+          <creator>
+            <individualName>
+              <givenName>Trishelle</givenName>
+              <surName>Tempel</surName>
+            </individualName>
+            <organizationName>California Department of Fish and Wildlife</organizationName>
+            <electronicMailAddress>Trishelle.Tempel@wildlife.ca.gov</electronicMailAddress>
+          </creator>
+          <creator>
+            <individualName>
+              <givenName>Karen</givenName>
+              <surName>Kayfetz</surName>
+            </individualName>
+            <organizationName>Delta Science Program, Delta Stewardship Council</organizationName>
+            <electronicMailAddress>Kayfetz, Karen@DeltaCouncil</electronicMailAddress>
+          </creator>
+          <distribution>
+            <online>
+              <onlineDescription>This online link references an EML document that describes data used in the creation of this derivative data package.</onlineDescription>
+              <url function="information">https://pasta.lternet.edu/package/metadata/eml/edi/539/1</url>
+            </online>
+          </distribution>
+          <contact>
+            <individualName>
+              <givenName>Samuel</givenName>
+              <givenName>M</givenName>
+              <surName>Bashevkin</surName>
+            </individualName>
+            <organizationName>Delta Science Program, Delta Stewardship Council</organizationName>
+            <electronicMailAddress>sam.bashevkin@deltacouncil.ca.gov</electronicMailAddress>
+            <userId directory="https://orcid.org">https://orcid.org/0000-0001-7406-7089</userId>
+          </contact>
+        </dataSource>
+      </methodStep>
+    </methods>
+    <dataTable>
+      <entityName>Delta Outflow, 2018 and historical</entityName>
+      <entityDescription>Modeled Delta Outflow from DWR's Dayflow program</entityDescription>
+      <physical>
+        <objectName>Delta_outflow_2018.csv</objectName>
+        <size unit="bytes">25389</size>
+        <authentication method="MD5">a1d0e3347cd5976a06c1eafc9ed12a88</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Wateryear</attributeName>
+          <attributeDefinition>water year for the state of California. The water year begins on October 1 of the previous calendar year and ends on Sept. 31.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">2002</minimum>
+                  <maximum exclusive="false">2017</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Month</attributeName>
+          <attributeDefinition>Month as an integer</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">7</minimum>
+                  <maximum exclusive="false">10</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Date</attributeName>
+          <attributeDefinition>Date</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM/DD/YYYY</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>NDOI</attributeName>
+          <attributeDefinition>Net Delta Outflow Index</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>cubicFeetPerSecond</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1130</minimum>
+                  <maximum exclusive="false">19211</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>WYindex</attributeName>
+          <attributeDefinition>Sacramento Valley Water Year Index in Million Acre Feet as calculated by: INDEX = 0.4*X + 0.3*Y + 0.3*Z where X = the current year's April-July unimpared runnoff, Y = the current year's october-march unimpaired runnoff, and Z = Previous year's index.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>millionAcreFeet</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">5.5</minimum>
+                  <maximum exclusive="false">14.9</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>WYtype</attributeName>
+          <attributeDefinition>Water year classification. Wet = Index &gt; 9.2, Above Normal = 9.2 &gt; Index &gt; 7.8, Below Normal = 7.8 &gt;Index &gt; 6.5, Dry = 6.5 &gt; Index &gt;5.4</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Dry</code>
+                    <definition>7.8 &gt;Index &gt; 6.5</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Below Normal</code>
+                    <definition>9.2 &gt; Index &gt; 7.8</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Wet</code>
+                    <definition>Sacramento Valley Index &gt;9.2</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>738</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>Zooplankton 2018</entityName>
+      <entityDescription>Zooplankton biomass and species composition collected in Suisun Marsh and the Sacramento River in summer and fall of 2018</entityDescription>
+      <physical>
+        <objectName>plankton_2018_smscg.csv</objectName>
+        <size unit="bytes">5867</size>
+        <authentication method="MD5">6c88056fd994da522a04fda645a77d55</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>SampleNo</attributeName>
+          <attributeDefinition>Indicator of sample orer</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1</minimum>
+                  <maximum exclusive="false">53</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Station</attributeName>
+          <attributeDefinition>Location where sample was collected (see stations table)</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>513</code>
+                    <definition>see "Stations.csv" lookup table</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>520</code>
+                    <definition>see "Stations.csv" lookup table</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>606</code>
+                    <definition>see "Stations.csv" lookup table</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>609</code>
+                    <definition>see "Stations.csv" lookup table</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>610</code>
+                    <definition>see "Stations.csv" lookup table</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>801</code>
+                    <definition>see "Stations.csv" lookup table</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>802</code>
+                    <definition>see "Stations.csv" lookup table</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Mont</code>
+                    <definition>see "Stations.csv" lookup table</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>NZ032</code>
+                    <definition>see "Stations.csv" lookup table</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Year</attributeName>
+          <attributeDefinition>Year sample was collected</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Month</attributeName>
+          <attributeDefinition>Month sample was collected</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Date</attributeName>
+          <attributeDefinition>Date sample was collected</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM/DD/YYYY</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Microcystis</attributeName>
+          <attributeDefinition>Qualitative description of level of microcystis. 1 = absent, 2 = low, 3 = medium, 4 = high, 5 = very high.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>1</code>
+                    <definition>Absent</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>2</code>
+                    <definition>Low abundance</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>4</code>
+                    <definition>High abundance</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Data not collected</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Region</attributeName>
+          <attributeDefinition>Region sample was collected in. Either ""River"" for samples in the Sacramento River or Confluence, or ""Suisun Marsh"" for samples in the Suisun region.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>River</code>
+                    <definition>Confluence of the sacramento and san joaquin rivers</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Suisun Marsh</code>
+                    <definition>Montezuma Slough or Suisun Slough</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Acartiella</attributeName>
+          <attributeDefinition>Catch per unit effort of the calanoid copepod Acartiella spp.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>numberPerMeterCubed</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">505.9548523</minimum>
+                  <maximum exclusive="false">11966.3278</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Tortanus</attributeName>
+          <attributeDefinition>Catch per unit effort of the calanoid copepod Tortanus</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>numberPerMeterCubed</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">1522.99968</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Limnoithona</attributeName>
+          <attributeDefinition>Catch per unit effort of the cyclopoid copepod Limnoithona spp.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>numberPerMeterCubed</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">75.55666612</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Pseudodiaptomus</attributeName>
+          <attributeDefinition>Catch per unit effort of the calanoid copepod Pseudodiaptomus spp.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>numberPerMeterCubed</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">35.77545705</minimum>
+                  <maximum exclusive="false">8353.943909</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Other_Calanoids</attributeName>
+          <attributeDefinition>Catch per unit effort of other calanoid copepods</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>numberPerMeterCubed</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">132.8645565</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Other_Cyclopoids</attributeName>
+          <attributeDefinition>Catch per unit effort of other cyclopoid copepods</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>numberPerMeterCubed</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">82.61661213</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Other</attributeName>
+          <attributeDefinition>Catch per unit effort of other zooplankton not covered in the other categories.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>numberPerMeterCubed</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">138.7998066</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>53</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>Water Quality, 2018 and historical</entityName>
+      <entityDescription>Water Quality collected by continuous YSI sondes from three stations in Montezuma Slough</entityDescription>
+      <physical>
+        <objectName>WaterQuality_SMSCG_2018.csv</objectName>
+        <size unit="bytes">441222</size>
+        <authentication method="MD5">34255dd201e570b27cf90618cbeaf35a</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Year</attributeName>
+          <attributeDefinition>Year data was collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">2002</minimum>
+                  <maximum exclusive="false">2018</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Station</attributeName>
+          <attributeDefinition>Station with continuous sonde. See 'Stations' lookup table</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>National Steel</code>
+                    <definition>Water quality station in Suisun Marsh, just north of the SMSCG</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Collinsville</code>
+                    <definition>Water quality station on the Sacramento river, just east of Montezuma Slough</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Hunter Cut</code>
+                    <definition>Water quality sation on the west side of Montezuma Slough</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Analyte</attributeName>
+          <attributeDefinition>Salinity, turbidity, fluorescence (chlyorophyll), or temperature</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Salinity</code>
+                    <definition>Salinity, in PSU, as measured by a YSI EXO sonde.</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Temperature</code>
+                    <definition>Tempearture, in degrees Celsius, as measured by a YSI EXO sonde</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Fluorescence</code>
+                    <definition>Chlorophyll Fluorescence, as measured by a YSI EXO sonde</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Turbidity</code>
+                    <definition>Turbidity, in FNU, as measured by a YSI EXO sonde.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>unit</attributeName>
+          <attributeDefinition>Unit that the analyte is measured in</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>PSU</code>
+                    <definition>Practical Salinity Units</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>celsius</code>
+                    <definition>Degrees Celsius</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>RFU</code>
+                    <definition>Relative Fluorescence units</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>FNU</code>
+                    <definition>Formazin Nephelometric Unit</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Datetime</attributeName>
+          <attributeDefinition>Date of data collection</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM/DD/YYYY</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Mean</attributeName>
+          <attributeDefinition>Mean of daily measurements (origional data was collected every 15 mintues for 24 hours)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0.121313178</minimum>
+                  <maximum exclusive="false">48.94354167</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Wytype</attributeName>
+          <attributeDefinition>Sacramento valley water year type classification.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Below Normal</code>
+                    <definition>Historic year with a dry summer,  7.8 &gt; Sacramento Valley Index &gt; 6.5</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Above Normal</code>
+                    <definition>Historic year with a wet summer, Sacramento Valley Index &gt;7.8</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Action Year</code>
+                    <definition>2018, year with a SMSCG action</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>6396</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>EDSM Delta Smelt catch 2018</entityName>
+      <entityDescription>Delta Smelt caught by the Enhanced Delta Smelt Monitoring Program in various regions of the estuary in summer of 2018</entityDescription>
+      <physical>
+        <objectName>EDSMsmelt_summer_2018.csv</objectName>
+        <size unit="bytes">4553</size>
+        <authentication method="MD5">c29ee2bcd945f72ea1e0fde2fe406255</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Week</attributeName>
+          <attributeDefinition>Week of sampling</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1</minimum>
+                  <maximum exclusive="false">17</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>EndWeek</attributeName>
+          <attributeDefinition>Date at the end of the week of sampling</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM/DD/YYYY</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>region</attributeName>
+          <attributeDefinition>Region of the estuary where sampling occurred. Either Cache Slough, Lower Sacramento, Sac Deep Water Shipping Channel, Suisun Bay, or Suisun Marsh</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Cache Slough/Liberty Island</code>
+                    <definition>Cache, Shag, Lindsey SLough, the Stairsteps, or Liberty Island</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Lower Sacramento</code>
+                    <definition>Sacramento river south of Cache SLough</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Lower San Joaquin</code>
+                    <definition>San Joaquin river in the South Delta</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Sac Deep Water Shipping Channel</code>
+                    <definition>Sacramento Deep water Ship channel north of Cache Slough</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Suisun Bay</code>
+                    <definition>Suisun Bay, Honker Bay, and Grizzly Bay</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Suisun Marsh</code>
+                    <definition>Montezuma Slough and surrounding channels</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>catch</attributeName>
+          <attributeDefinition>number of smelt caught</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>number</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>whole</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">24</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>CPUE</attributeName>
+          <attributeDefinition>Catch of Delta Smelt per trawl within the region.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">0.96</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Stations</attributeName>
+          <attributeDefinition>Number of stations sampled within the region.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>number</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">3</minimum>
+                  <maximum exclusive="false">8</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Trawls</attributeName>
+          <attributeDefinition>Number of trawls conducted in specified region, generally 2 to 6 per station.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>number</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">8</minimum>
+                  <maximum exclusive="false">36</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>102</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>Summer Townet Delta Smelt catch, 2002-2017</entityName>
+      <entityDescription>Delta Smelt caught by the Summer Townet survey in August in Montezuma Slough, 2002-2017</entityDescription>
+      <physical>
+        <objectName>TNSsmelt_2001_2018.csv</objectName>
+        <size unit="bytes">20158</size>
+        <authentication method="MD5">c95bdbc034cbaed397be2bc938b504ff</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Year</attributeName>
+          <attributeDefinition>Year of sample collection</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Station</attributeName>
+          <attributeDefinition>Station where sample was collected. See the ""stations"" lookup table for details</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Station where sample was collected. See the ""stations"" lookup table for details</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Date</attributeName>
+          <attributeDefinition>Date of sample collection</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>DD/MM/YYYY</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Temperature</attributeName>
+          <attributeDefinition>Water temperature from the surface of the water taken at the start of the first trawl of the station.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>celsius</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">18.79999924</minimum>
+                  <maximum exclusive="false">23.60000038</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>TowVolume</attributeName>
+          <attributeDefinition>Volume of water passing through the net. Volume for samples collected in  2002 used an estimated tow volume of 735 m3. Tow volumes collected in 2003 and later were estimated using a General Oceanics mechanical flowmeter.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>meterSquared</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">409</minimum>
+                  <maximum exclusive="false">1142</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>DScatch</attributeName>
+          <attributeDefinition>number of Delta Smelt caught in the trawl</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>number</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>whole</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">4</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>CPUE</attributeName>
+          <attributeDefinition>Catch per unit effort of Delta Smelt based on the volume of the trawl</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>numberPerMeterSquared</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">0.004597701</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>TowNumber</attributeName>
+          <attributeDefinition>Out of the three replicate tows taken at a station, number of current tow. A third tow is conducted if any fish are collected during either of the first two tows.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1</minimum>
+                  <maximum exclusive="false">3</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>WYIndex</attributeName>
+          <attributeDefinition>Sacramento Valley Water Year Index, based on unimpaired runnoff.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>millionAcreFeet</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">4</minimum>
+                  <maximum exclusive="false">14.14</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Yrtype</attributeName>
+          <attributeDefinition>Sacraemento Valley Water Year type, based on WY index.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Dry</code>
+                    <definition>6.5 &gt; Index &gt;5.4</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Above Normal</code>
+                    <definition>9.2 &gt; Index &gt; 7.8</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Below Normal</code>
+                    <definition>7.8&lt; Sacramento Valley Index &lt; 9.2</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Wet</code>
+                    <definition>Sacramento Valley Index &gt; 9.2</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Critically Dry</code>
+                    <definition>Index &lt;5.4</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>NDOImonthly</attributeName>
+          <attributeDefinition>Average August Net Delta Outflow Index, as calculated by Dayflow</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>cubicFeetPerSecond</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">3074.032258</minimum>
+                  <maximum exclusive="false">10235.93548</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>PresenceAbsence</attributeName>
+          <attributeDefinition>Where Delta Smelt caught in the trawl? 1 - yes, 0 - no.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>0</code>
+                    <definition>Smelt were not caught in Suisun Marsh</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1</code>
+                    <definition>Smelt were caught in Suisun Marsh</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Salinity</attributeName>
+          <attributeDefinition>Salinity in practical salinity units based on specific conductance as measured by the boat conducting the trawl.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>PSU</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0.635944355</minimum>
+                  <maximum exclusive="false">12.30730794</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>247</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>UnTRIM Bay-Delta model salinity output</entityName>
+      <entityDescription>UnTRIM Bay-Delta model salinity output</entityDescription>
+      <physical>
+        <objectName>salinity_modeled_2018.csv</objectName>
+        <size unit="bytes">883350</size>
+        <authentication method="MD5">3024d8ef8467cce31c5ee8e3e5c1a914</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Datetime</attributeName>
+          <attributeDefinition>Date and time used for modeled salinity</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Action</attributeName>
+          <attributeDefinition>Either "Flow Action" for results of model scenario including the summer Flow Action or "No Action" for results of model scenario that did not include the Flow Action.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Action</code>
+                    <definition>Model scenario where SMSCG are operated during August</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>No Action</code>
+                    <definition>Model scenario where SMSCG are not operated during August</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>salinity</attributeName>
+          <attributeDefinition>Predicted salinity of water at Belden's Landing</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>PSU</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">1.93</minimum>
+                  <maximum exclusive="false">9.26</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>29378</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>Sampling stations</entityName>
+      <entityDescription>Sampling stations with regions and GPS coordinates</entityDescription>
+      <physical>
+        <objectName>stations.csv</objectName>
+        <size unit="bytes">1810</size>
+        <authentication method="MD5">7b110142b1584a2a8bb77a49b1515419</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Project</attributeName>
+          <attributeDefinition>Survey collecting the data</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>EMP</code>
+                    <definition>DWR's Environmental Monitoring Program https://water.ca.gov/Programs/Environmental-Services/Water-Quality-Monitoring-And-Assessment</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>FMWT</code>
+                    <definition>CDFW's Fall Midwater Trawl https://wildlife.ca.gov/Conservation/Delta/Fall-Midwater-Trawl</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>TNS</code>
+                    <definition>CDFW's SUmmer Townet Survey https://wildlife.ca.gov/Conservation/Delta/Townet-Survey</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>DWR</code>
+                    <definition>DWR's continuous water quality monitoring station</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Station</attributeName>
+          <attributeDefinition>Name or number of the station, as used by the component surveys</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Name or number of the station, as used by the component surveys</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Region</attributeName>
+          <attributeDefinition>Geographic area, either "Suisun Marsh" for areas in the marsh or "River" for the Sacramento River and confluence.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Suisun Marsh</code>
+                    <definition>Station falls within Montezuma Slough or other regions within Suisun Marsh or Grizzly Bay</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>River</code>
+                    <definition>Station falls at the confluence of the Sacramento and San Joaquin Rivers or upstream</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Longitude</attributeName>
+          <attributeDefinition>Longitude of official station location, WGS 1984</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-122.0527</minimum>
+                  <maximum exclusive="false">-121.83875</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Latitude</attributeName>
+          <attributeDefinition>Latitude of official station location, WGS 1984</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">38.03281</minimum>
+                  <maximum exclusive="false">38.1869</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Data_types</attributeName>
+          <attributeDefinition>Types of samples collected at the station, including historic Delta Smelt Catch, zooplankton samples, microcystis samples, chlorophyll flourescence, turbidity, salinity, and temperature</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Types of samples collected at the station, including historic Delta Smelt Catch, zooplankton samples, microcystis samples, chlorophyll flourescence, turbidity, salinity, and temperature</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>No data were collected at the site of the SMSCG</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Dates_sampled</attributeName>
+          <attributeDefinition>Dates when samples were collected. Format: MM/DD/YYYY. Water quality stations had data collected every 15 minutes for the  duration of the study.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Dates when samples were collected. Format: MM/DD/YYYY. Water quality stations had data collected every 15 minutes for the  duration of the study.</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>No data were collected at the site of the SMSCG</codeExplanation>
+          </missingValueCode>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>17</numberOfRecords>
+    </dataTable>
+    <otherEntity>
+      <entityName>UnTRIM Bay-Delta Model Flow Action Salinity Raster</entityName>
+      <entityDescription>Raster map of the percent of time during the time period of the Flow Action each pixel (100m grid) has a predicted salinity less than 6 PSU for a scenario with the Flow Action</entityDescription>
+      <physical>
+        <objectName>Percent_time_lt6psu_100mGrid_UTM_2018Action_01_Summer Operation.asc</objectName>
+        <size unit="bytes">534971</size>
+        <authentication method="MD5">fb38f73fdaecaeec59ffde0deda37979</authentication>
+        <dataFormat>
+          <externallyDefinedFormat>
+            <formatName>text/plain</formatName>
+          </externallyDefinedFormat>
+        </dataFormat>
+      </physical>
+      <entityType>unknown</entityType>
+    </otherEntity>
+    <otherEntity>
+      <entityName>UnTRIM Bay-Delta Model No Action Salinity Raster</entityName>
+      <entityDescription>Raster map showing the percent of time each pixel (100m grid) has a salinity less than 6 PSU for a scenario without a summer SMSCG action</entityDescription>
+      <physical>
+        <objectName>Percent_time_lt6psu_100mGrid_UTM_NoAction_01_Summer Operation.asc</objectName>
+        <size unit="bytes">534971</size>
+        <authentication method="MD5">695c38c4a5186fb741233272bb335fae</authentication>
+        <dataFormat>
+          <externallyDefinedFormat>
+            <formatName>text/plain</formatName>
+          </externallyDefinedFormat>
+        </dataFormat>
+      </physical>
+      <entityType>unknown</entityType>
+    </otherEntity>
+    <otherEntity>
+      <entityName>Shoreline mask for raster map</entityName>
+      <entityDescription>Shoreline mask for raster map</entityDescription>
+      <physical>
+        <objectName>ShorelineShapefile.zip</objectName>
+        <size unit="bytes">74550</size>
+        <authentication method="MD5">9de95a132d6117e036a41c7b11d8db20</authentication>
+        <dataFormat>
+          <externallyDefinedFormat>
+            <formatName>application/zip</formatName>
+          </externallyDefinedFormat>
+        </dataFormat>
+      </physical>
+      <entityType>unknown</entityType>
+    </otherEntity>
+  </dataset>
+  <additionalMetadata>
+    <metadata>
+      <unitList>
+        <unit id="PSU" multiplierToSI="" name="PSU" parentSI="" unitType="Salinity">
+          <description>Practical Salinity Units:  the Practical Salinity Scale, practical salinity is defined in terms of the ratio K15 of the electrical conductivity of the seawater sample, at a temperature of 15° C and a pressure of one standard atmosphere, to that of a potassium chloride (KCl) solution, in which the mass fraction of KCl is 32.4356 x 10-3 at the same temperature and pressure.</description>
+        </unit>
+        <unit id="millionAcreFeet" multiplierToSI="1.23E+09" name="millionAcreFeet" parentSI="meterCubed" unitType="Volume">
+          <description>Volume of water necessary to flood one acre of land to one foot of depth, times 1000000</description>
+        </unit>
+      </unitList>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

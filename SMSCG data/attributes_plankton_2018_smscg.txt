@@ -1,0 +1,15 @@
+﻿attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+SampleNo	Indicator of sample orer	numeric	dimensionless			
+Station	Location where sample was collected (see stations table)	categorical				
+Year	Year sample was collected	Date		YYYY		
+Month	Month sample was collected	Date		MM		
+Date	Date sample was collected	Date		MM/DD/YYYY		
+Microcystis	"Qualitative description of level of microcystis. 1 = absent, 2 = low, 3 = medium, 4 = high, 5 = very high."	categorical			NA	Data not collected
+Region	"Region sample was collected in. Either ""River"" for samples in the Sacramento River or Confluence, or ""Suisun Marsh"" for samples in the Suisun region."	categorical				
+Acartiella	Catch per unit effort of the calanoid copepod Acartiella spp.	numeric	numberPerMeterCubed			
+Tortanus	Catch per unit effort of the calanoid copepod Tortanus	numeric	numberPerMeterCubed			
+Limnoithona	Catch per unit effort of the cyclopoid copepod Limnoithona spp.	numeric	numberPerMeterCubed			
+Pseudodiaptomus	Catch per unit effort of the calanoid copepod Pseudodiaptomus spp.	numeric	numberPerMeterCubed			
+Other_Calanoids	Catch per unit effort of other calanoid copepods	numeric	numberPerMeterCubed			
+Other_Cyclopoids	Catch per unit effort of other cyclopoid copepods	numeric	numberPerMeterCubed			
+Other	Catch per unit effort of other zooplankton not covered in the other categories.	numeric	numberPerMeterCubed			

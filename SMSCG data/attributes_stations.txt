@@ -1,0 +1,8 @@
+﻿attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+Project	Survey collecting the data	categorical				
+Station	Name or number of the station, as used by the component surveys	character				
+Region	Geographic area, either "Suisun Marsh" for areas in the marsh or "River" for the Sacramento River and confluence.	categorical				
+Longitude	Longitude of official station location, WGS 1984	numeric	degree			
+Latitude	Latitude of official station location, WGS 1984	numeric	degree			
+Data_types	Types of samples collected at the station, including historic Delta Smelt Catch, zooplankton samples, microcystis samples, chlorophyll flourescence, turbidity, salinity, and temperature	character			NA	No data were collected at the site of the SMSCG
+Dates_sampled	Dates when samples were collected. Format: MM/DD/YYYY. Water quality stations had data collected every 15 minutes for the  duration of the study.	character			NA	No data were collected at the site of the SMSCG

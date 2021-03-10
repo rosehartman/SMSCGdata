@@ -1,0 +1,7 @@
+﻿attributeName	code	definition
+Project	EMP	DWR's Environmental Monitoring Program https://water.ca.gov/Programs/Environmental-Services/Water-Quality-Monitoring-And-Assessment
+Project	FMWT	CDFW's Fall Midwater Trawl https://wildlife.ca.gov/Conservation/Delta/Fall-Midwater-Trawl
+Project	TNS	CDFW's SUmmer Townet Survey https://wildlife.ca.gov/Conservation/Delta/Townet-Survey
+Project	DWR	DWR's continuous water quality monitoring station
+Region	Suisun Marsh	Station falls within Montezuma Slough or other regions within Suisun Marsh or Grizzly Bay
+Region	River	Station falls at the confluence of the Sacramento and San Joaquin Rivers or upstream

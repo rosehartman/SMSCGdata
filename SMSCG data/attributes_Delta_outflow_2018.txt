@@ -1,0 +1,7 @@
+﻿attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+Wateryear	water year for the state of California. The water year begins on October 1 of the previous calendar year and ends on Sept. 31.	numeric	dimensionless			
+Month	Month as an integer	numeric	dimensionless			
+Date	Date	Date		MM/DD/YYYY		
+NDOI	Net Delta Outflow Index	numeric	cubicFeetPerSecond			
+WYindex	"Sacramento Valley Water Year Index in Million Acre Feet as calculated by: INDEX = 0.4*X + 0.3*Y + 0.3*Z where X = the current year's April-July unimpared runnoff, Y = the current year's october-march unimpaired runnoff, and Z = Previous year's index."	numeric	millionAcreFeet			
+WYtype	"Water year classification. Wet = Index > 9.2, Above Normal = 9.2 > Index > 7.8, Below Normal = 7.8 >Index > 6.5, Dry = 6.5 > Index >5.4"	categorical				

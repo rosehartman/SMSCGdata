@@ -1,0 +1,4 @@
+﻿attributeName	code	definition
+WYtype	Dry	7.8 >Index > 6.5
+WYtype	Below Normal	9.2 > Index > 7.8
+WYtype	Wet	Sacramento Valley Index >9.2

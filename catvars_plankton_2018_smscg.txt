@@ -1,0 +1,16 @@
+﻿attributeName	code	definition
+Station	513	see "Stations.csv" lookup table
+Station	520	see "Stations.csv" lookup table
+Station	606	see "Stations.csv" lookup table
+Station	609	see "Stations.csv" lookup table
+Station	610	see "Stations.csv" lookup table
+Station	801	see "Stations.csv" lookup table
+Station	802	see "Stations.csv" lookup table
+Station	Mont	see "Stations.csv" lookup table
+Station	NZ032	see "Stations.csv" lookup table
+Microcystis	1	Absent
+Microcystis	2	Low abundance
+Microcystis	4	High abundance
+Microcystis	NA	Not recorded
+Region	River	Confluence of the sacramento and san joaquin rivers
+Region	Suisun Marsh	Montezuma Slough or Suisun Slough

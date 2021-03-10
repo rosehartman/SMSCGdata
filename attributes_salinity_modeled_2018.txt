@@ -1,0 +1,4 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+Datetime	Date and time used for modeled salinity	Date		YYYY-MM-DD		
+Action	Either "Flow Action" for results of model scenario including the summer Flow Action or "No Action" for results of model scenario that did not include the Flow Action.	categorical				
+salinity	Predicted salinity of water at Belden's Landing	numeric	PSU			

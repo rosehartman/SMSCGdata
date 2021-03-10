@@ -1,0 +1,4 @@
+﻿attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+Datetime	Date and time used for modeling s	Date		YYYY-MM-DD		
+Action	Either Action for results of model where salinity gates are operated or No Action for results of model where gates are held open.	categorical				
+salinity	Salinity of water at Belden's Landing	numeric	PSU			
